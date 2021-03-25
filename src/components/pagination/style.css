@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  margin: 16px;
+}
+
+button {
+  margin: 8px;
+  padding: 8px;
+}
+
+.active{
+    background-color: red;
+}
